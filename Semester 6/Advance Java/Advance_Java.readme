@@ -1,55 +1,68 @@
 # Advanced Java Practical List
+## A comprehensive collection of Java programming exercises
 
-This repository contains a collection of practical exercises for Advanced Java programming. Each program demonstrates a specific concept or technology within the Java ecosystem.
+### List of Programs
 
-## List of Programs
+1. **Sum of Two Numbers**
+2. **Client Socket Programming**
+3. **JDBC Connectivity**
+4. **Transaction Management**
+5. **URL Connection**
+6. **Servlet Context Interface**
+7. **Servlet Config Interface**
+8. **Filter Config Implementation**
+9. **Session Management**
+10. **JSP Implicit Objects**
+11. **Hibernate Mapping**
+12. **Spring Framework Transaction Management**
 
-1. Sum of Two Numbers
-2. Client Socket Programming
-3. JDBC Connectivity
-4. Transaction Management
-5. URL Connection
-6. Servlet Context Interface
-7. Servlet Config Interface
-8. Filter Config Implementation
-9. Session Management
-10. JSP Implicit Objects
-11. Hibernate Mapping
-12. Spring Framework Transaction Management
-
-## Requirements
+#### Requirements
 
 - Java Development Kit (JDK) 8 or higher
 - Apache Tomcat (for servlet and JSP programs)
 - MySQL database (for JDBC and Hibernate programs)
 - Maven (for dependency management)
 
-## Program Descriptions
+3. Each program is located in its own directory. Navigate to the specific program directory and follow the instructions in the individual README files for setup and execution.
 
-1. **Sum of Two Numbers**: A basic Java program to demonstrate input/output and arithmetic operations.
+### Program Descriptions
 
-2. **Client Socket Programming**: Implements a client-side socket to communicate with a server.
+1. **Sum of Two Numbers**: 
+*A basic Java program to demonstrate input/output and arithmetic operations.*
 
-3. **JDBC Connectivity**: Shows how to connect to a MySQL database using JDBC.
+2. **Client Socket Programming**: 
+*Implements a client-side socket to communicate with a server.*
 
-4. **Transaction Management**: Demonstrates database transaction management using JDBC.
+3. **JDBC Connectivity**: 
+*Shows how to connect to a MySQL database using JDBC.*
 
-5. **URL Connection**: Establishes a connection to a URL and retrieves data.
+4. **Transaction Management**: 
+*Demonstrates database transaction management using JDBC.*
 
-6. **Servlet Context Interface**: Illustrates the usage of ServletContext in a web application.
+5. **URL Connection**: 
+*Establishes a connection to a URL and retrieves data.*
 
-7. **Servlet Config Interface**: Shows how to use ServletConfig to access initialization parameters.
+6. **Servlet Context Interface**: 
+*Illustrates the usage of ServletContext in a web application.*
 
-8. **Filter Config Implementation**: Implements a filter and demonstrates the use of FilterConfig.
+7. **Servlet Config Interface**: 
+*Shows how to use ServletConfig to access initialization parameters.*
 
-9. **Session Management**: Demonstrates session management in a web application.
+8. **Filter Config Implementation**: 
+*Implements a filter and demonstrates the use of FilterConfig.*
 
-10. **JSP Implicit Objects**: Showcases the use of implicit objects in JavaServer Pages.
+9. **Session Management**: 
+*Demonstrates session management in a web application.*
 
-11. **Hibernate Mapping**: Illustrates object-relational mapping using Hibernate.
+10. **JSP Implicit Objects**: 
+ *Showcases the use of implicit objects in JavaServer Pages.*
 
-12. **Spring Framework Transaction Management**: Implements transaction management using the Spring Framework.
+11. **Hibernate Mapping**: 
+ *Illustrates object-relational mapping using Hibernate.*
 
-## Contributing
+12. **Spring Framework Transaction Management**: 
+ *Implements transaction management using the Spring Framework.*
+
+#### Contributing
 
 Feel free to fork this repository and submit pull requests for any improvements or additional programs.
